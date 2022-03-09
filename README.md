@@ -1,2 +1,3 @@
-# static-website
-Algoroot website
+# Algoroot Landing Page
+
+Algoroot's coming soon page
